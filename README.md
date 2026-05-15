@@ -1,4 +1,5 @@
-📦 Inventa — Inventory Management System
+ Inventa — Inventory Management System
+ 
 A desktop-based Inventory Management System built with C# Windows Forms and SQL Server. Designed to help small businesses manage their products, sellers, and sales records efficiently.
 
 🖥️ Built With
